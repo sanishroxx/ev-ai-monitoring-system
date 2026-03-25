@@ -1,1 +1,6 @@
 charger_id,timestamp,energy_kwh,voltage,current,temperature,soc_percent,status,ai_status,ai_score
+OVN-EV-001,2026-01-01 10:00:00,15,400,30,35,60,Charging,Normal,0.1
+OVN-EV-002,2026-01-01 10:01:00,18,410,32,37,70,Charging,Normal,0.2
+OVN-EV-003,2026-01-01 10:02:00,20,420,35,40,80,Charging,ANOMALY,-0.5
+OVN-EV-001,2026-01-01 10:03:00,22,395,29,34,65,Charging,Normal,0.15
+OVN-EV-002,2026-01-01 10:04:00,25,450,80,75,90,Charging,ANOMALY,-0.8
