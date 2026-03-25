@@ -49,7 +49,7 @@ async def main():
     
     async with websockets.serve(
         handle_charger, 
-        "localhost", 
+        "0.0.0.0", 
         8765
     ):
         print("✅ Server running on ws://localhost:8765")
