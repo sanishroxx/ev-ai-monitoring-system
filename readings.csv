@@ -1,1 +1,1 @@
-
+charger_id,timestamp,energy_kwh,voltage,current,temperature,soc_percent,status,ai_status,ai_score
